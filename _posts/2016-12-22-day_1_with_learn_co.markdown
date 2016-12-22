@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "DAY 1 with Learn.co"
-date:   2016-12-22 04:08:49 +0000
+title:  "DAY 1 on Flatiron"
+date:   2016-12-21 23:08:49 -0500
 ---
 
 
